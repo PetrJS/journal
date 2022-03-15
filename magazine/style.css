@@ -143,3 +143,19 @@ body {
     border-radius: 10px;
     cursor: pointer;
 }
+
+.button_index{
+    margin: 25px 0 0 0;
+    width: 30%;
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 60px;
+    background-color: cadetblue;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 700;
+    cursor: pointer;
+    border-radius: 15px;
+}
