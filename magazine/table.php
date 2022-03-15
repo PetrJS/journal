@@ -53,7 +53,9 @@ echo '</form>';
         }
 
   </script>
-
+<div >
+        <a class="button_index" href="index.php">Вернуться к форме</a>
+    </div>
 </div>
 </body>
 </html>
