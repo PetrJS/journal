@@ -65,7 +65,7 @@ require 'dat.php';
             <input class="input_button" type="submit" value="Сохранить данные">
         </div>
         <div >
-            <a class="table_button" href="table.php" target="_blank">Перейти к журналу</a>
+            <a class="table_button" href="table.php">Перейти к журналу</a>
         </div>
     </div>
 </form>
